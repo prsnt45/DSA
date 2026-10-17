@@ -1,24 +1,26 @@
 {
-  "totalSolved": 2,
+  "totalSolved": 3,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-17",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 1,
+    "easy": 2,
     "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
-    "LeetCode_Minimum_Swaps_to_Sort_by_Digit_Sum": true
+    "LeetCode_Minimum_Swaps_to_Sort_by_Digit_Sum": true,
+    "LeetCode_Sum_of_Squares_of_Special_Elements_": true
   },
   "activityHistory": {
     "2026-10-08": 1,
-    "2026-10-17": 1
+    "2026-10-17": 2
   },
   "todayProblems": [
-    "Minimum Swaps to Sort by Digit Sum"
+    "Minimum Swaps to Sort by Digit Sum",
+    "Sum of Squares of Special Elements "
   ]
 }
