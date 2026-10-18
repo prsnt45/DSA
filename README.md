@@ -7,3 +7,4 @@
 | 5 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 18 Oct 2026 | 05:20 pm |
 | 6 | [Count the Number of Special Characters I](./LeetCode/Easy/Count%20the%20Number%20of%20Special%20Characters%20I) | [LeetCode](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | Easy | 18 Oct 2026 | 05:32 pm |
 | 7 | [Minimum Cost of Buying Candies With Discount](./LeetCode/Easy/Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount) | [LeetCode](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | Easy | 18 Oct 2026 | 05:50 pm |
+| 8 | [Count the Number of Special Characters II](./LeetCode/Medium/Count%20the%20Number%20of%20Special%20Characters%20II) | [LeetCode](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | Medium | 18 Oct 2026 | 11:11 pm |
