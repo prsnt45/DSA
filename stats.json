@@ -1,11 +1,11 @@
 {
-  "totalSolved": 6,
+  "totalSolved": 7,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 4,
+    "easy": 5,
     "medium": 2,
     "hard": 0,
     "basic": 0
@@ -16,16 +16,18 @@
     "LeetCode_Sum_of_Squares_of_Special_Elements_": true,
     "LeetCode_Check_if_Array_Is_Sorted_and_Rotated": true,
     "LeetCode_Search_in_Rotated_Sorted_Array": true,
-    "LeetCode_Count_the_Number_of_Special_Characters_I": true
+    "LeetCode_Count_the_Number_of_Special_Characters_I": true,
+    "LeetCode_Minimum_Cost_of_Buying_Candies_With_Discount": true
   },
   "activityHistory": {
     "2026-10-08": 1,
     "2026-10-17": 2,
-    "2026-10-18": 3
+    "2026-10-18": 4
   },
   "todayProblems": [
     "Check if Array Is Sorted and Rotated",
     "Search in Rotated Sorted Array",
-    "Count the Number of Special Characters I"
+    "Count the Number of Special Characters I",
+    "Minimum Cost of Buying Candies With Discount"
   ]
 }
