@@ -1,12 +1,12 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
@@ -14,14 +14,16 @@
     "LeetCode_Two_Sum": true,
     "LeetCode_Minimum_Swaps_to_Sort_by_Digit_Sum": true,
     "LeetCode_Sum_of_Squares_of_Special_Elements_": true,
-    "LeetCode_Check_if_Array_Is_Sorted_and_Rotated": true
+    "LeetCode_Check_if_Array_Is_Sorted_and_Rotated": true,
+    "LeetCode_Search_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
     "2026-10-08": 1,
     "2026-10-17": 2,
-    "2026-10-18": 1
+    "2026-10-18": 2
   },
   "todayProblems": [
-    "Check if Array Is Sorted and Rotated"
+    "Check if Array Is Sorted and Rotated",
+    "Search in Rotated Sorted Array"
   ]
 }
