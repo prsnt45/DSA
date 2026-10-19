@@ -1,11 +1,11 @@
 {
-  "totalSolved": 9,
+  "totalSolved": 10,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-10-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 3,
     "hard": 0,
     "basic": 0
@@ -19,15 +19,17 @@
     "LeetCode_Count_the_Number_of_Special_Characters_I": true,
     "LeetCode_Minimum_Cost_of_Buying_Candies_With_Discount": true,
     "LeetCode_Count_the_Number_of_Special_Characters_II": true,
-    "LeetCode_Find_Target_Indices_After_Sorting_Array": true
+    "LeetCode_Find_Target_Indices_After_Sorting_Array": true,
+    "LeetCode_Minimum_Element_After_Replacement_With_Digit_Sum": true
   },
   "activityHistory": {
     "2026-10-08": 1,
     "2026-10-17": 2,
     "2026-10-18": 5,
-    "2026-10-19": 1
+    "2026-10-19": 2
   },
   "todayProblems": [
-    "Find Target Indices After Sorting Array"
+    "Find Target Indices After Sorting Array",
+    "Minimum Element After Replacement With Digit Sum"
   ]
 }
