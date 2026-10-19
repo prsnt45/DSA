@@ -10,3 +10,4 @@
 | 8 | [Count the Number of Special Characters II](./LeetCode/Medium/Count%20the%20Number%20of%20Special%20Characters%20II) | [LeetCode](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | Medium | 18 Oct 2026 | 11:11 pm |
 | 9 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 19 Oct 2026 | 10:59 pm |
 | 10 | [Minimum Element After Replacement With Digit Sum](./LeetCode/Easy/Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | Easy | 19 Oct 2026 | 11:09 pm |
+| 11 | [Destroying Asteroids](./LeetCode/Medium/Destroying%20Asteroids) | [LeetCode](https://leetcode.com/problems/destroying-asteroids/) | Medium | 19 Oct 2026 | 11:20 pm |
