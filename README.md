@@ -11,3 +11,4 @@
 | 9 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 19 Oct 2026 | 10:59 pm |
 | 10 | [Minimum Element After Replacement With Digit Sum](./LeetCode/Easy/Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | Easy | 19 Oct 2026 | 11:09 pm |
 | 11 | [Destroying Asteroids](./LeetCode/Medium/Destroying%20Asteroids) | [LeetCode](https://leetcode.com/problems/destroying-asteroids/) | Medium | 19 Oct 2026 | 11:20 pm |
+| 12 | [Left and Right Sum Differences](./LeetCode/Easy/Left%20and%20Right%20Sum%20Differences) | [LeetCode](https://leetcode.com/problems/left-and-right-sum-differences/) | Easy | 19 Oct 2026 | 11:38 pm |
