@@ -12,3 +12,4 @@
 | 10 | [Minimum Element After Replacement With Digit Sum](./LeetCode/Easy/Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | Easy | 19 Oct 2026 | 11:09 pm |
 | 11 | [Destroying Asteroids](./LeetCode/Medium/Destroying%20Asteroids) | [LeetCode](https://leetcode.com/problems/destroying-asteroids/) | Medium | 19 Oct 2026 | 11:20 pm |
 | 12 | [Left and Right Sum Differences](./LeetCode/Easy/Left%20and%20Right%20Sum%20Differences) | [LeetCode](https://leetcode.com/problems/left-and-right-sum-differences/) | Easy | 19 Oct 2026 | 11:38 pm |
+| 13 | [Sum of Sortable Integers](./LeetCode/Hard/Sum%20of%20Sortable%20Integers) | [LeetCode](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard | 20 Oct 2026 | 05:17 pm |
