@@ -1,12 +1,12 @@
 {
-  "totalSolved": 14,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-10-20",
-  "todayCount": 2,
+  "totalSolved": 15,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-10-21",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 4,
+    "medium": 5,
     "hard": 1,
     "basic": 0
   },
@@ -24,17 +24,18 @@
     "LeetCode_Destroying_Asteroids": true,
     "LeetCode_Left_and_Right_Sum_Differences": true,
     "LeetCode_Sum_of_Sortable_Integers": true,
-    "LeetCode_Longest_Common_Prefix": true
+    "LeetCode_Longest_Common_Prefix": true,
+    "LeetCode_Minimum_Operations_to_Sort_a_String": true
   },
   "activityHistory": {
     "2026-10-08": 1,
     "2026-10-17": 2,
     "2026-10-18": 5,
     "2026-10-19": 4,
-    "2026-10-20": 2
+    "2026-10-20": 2,
+    "2026-10-21": 1
   },
   "todayProblems": [
-    "Sum of Sortable Integers",
-    "Longest Common Prefix"
+    "Minimum Operations to Sort a String"
   ]
 }
