@@ -16,3 +16,4 @@
 | 14 | [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | Easy | 20 Oct 2026 | 10:27 pm |
 | 15 | [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | 21 Oct 2026 | 10:23 pm |
 | 16 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | 21 Oct 2026 | 10:30 pm |
+| 17 | [Minimum Operations to Sort a Permutation](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Medium | 22 Oct 2026 | 09:00 pm |
