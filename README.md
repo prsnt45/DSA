@@ -20,3 +20,4 @@
 | 18 | [Maximum K to Sort a Permutation](./LeetCode/Medium/Maximum%20K%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Medium | 23 Oct 2026 | 08:25 pm |
 | 19 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 23 Oct 2026 | 09:09 pm |
 | 20 | [Count Days Spent Together](./LeetCode/Easy/Count%20Days%20Spent%20Together) | [LeetCode](https://leetcode.com/problems/count-days-spent-together/) | Easy | 24 Oct 2026 | 10:42 pm |
+| 21 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 24 Oct 2026 | 11:05 pm |
