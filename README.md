@@ -22,3 +22,4 @@
 | 20 | [Count Days Spent Together](./LeetCode/Easy/Count%20Days%20Spent%20Together) | [LeetCode](https://leetcode.com/problems/count-days-spent-together/) | Easy | 24 Oct 2026 | 10:42 pm |
 | 21 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 24 Oct 2026 | 11:05 pm |
 | 22 | [Number of Closed Islands](./LeetCode/Medium/Number%20of%20Closed%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-closed-islands/) | Medium | 25 Oct 2026 | 10:19 pm |
+| 23 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 25 Oct 2026 | 10:29 pm |
