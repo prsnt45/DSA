@@ -1,11 +1,11 @@
 {
-  "totalSolved": 24,
+  "totalSolved": 25,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-10-25",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 13,
+    "easy": 14,
     "medium": 10,
     "hard": 1,
     "basic": 0
@@ -34,7 +34,8 @@
     "LeetCode_3Sum": true,
     "LeetCode_Number_of_Closed_Islands": true,
     "LeetCode_Construct_Uniform_Parity_Array_I": true,
-    "LeetCode_Construct_Uniform_Parity_Array_II": true
+    "LeetCode_Construct_Uniform_Parity_Array_II": true,
+    "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true
   },
   "activityHistory": {
     "2026-10-08": 1,
@@ -46,11 +47,12 @@
     "2026-10-22": 1,
     "2026-10-23": 2,
     "2026-10-24": 2,
-    "2026-10-25": 3
+    "2026-10-25": 4
   },
   "todayProblems": [
     "Number of Closed Islands",
     "Construct Uniform Parity Array I",
-    "Construct Uniform Parity Array II"
+    "Construct Uniform Parity Array II",
+    "Smallest Index With Digit Sum Equal to Index"
   ]
 }
