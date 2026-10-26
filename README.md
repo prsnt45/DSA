@@ -25,3 +25,4 @@
 | 23 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 25 Oct 2026 | 10:29 pm |
 | 24 | [Construct Uniform Parity Array II](./LeetCode/Medium/Construct%20Uniform%20Parity%20Array%20II) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | 25 Oct 2026 | 10:41 pm |
 | 25 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 25 Oct 2026 | 10:48 pm |
+| 26 | [Count Islands With Total Value Divisible by K](./LeetCode/Medium/Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K) | [LeetCode](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Medium | 26 Oct 2026 | 02:36 pm |
