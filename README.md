@@ -27,3 +27,4 @@
 | 25 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 25 Oct 2026 | 10:48 pm |
 | 26 | [Count Islands With Total Value Divisible by K](./LeetCode/Medium/Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K) | [LeetCode](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Medium | 26 Oct 2026 | 02:36 pm |
 | 27 | [Weighted Word Mapping](./LeetCode/Easy/Weighted%20Word%20Mapping) | [LeetCode](https://leetcode.com/problems/weighted-word-mapping/) | Easy | 26 Oct 2026 | 02:49 pm |
+| 28 | [Create Grid With Exactly One Path](./LeetCode/Easy/Create%20Grid%20With%20Exactly%20One%20Path) | [LeetCode](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | 27 Oct 2026 | 10:48 pm |
