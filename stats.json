@@ -1,12 +1,12 @@
 {
-  "totalSolved": 29,
-  "currentStreak": 11,
-  "maxStreak": 11,
-  "lastSyncDate": "2026-10-27",
-  "todayCount": 2,
+  "totalSolved": 30,
+  "currentStreak": 12,
+  "maxStreak": 12,
+  "lastSyncDate": "2026-10-28",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 11,
+    "medium": 12,
     "hard": 1,
     "basic": 0
   },
@@ -39,7 +39,8 @@
     "LeetCode_Count_Islands_With_Total_Value_Divisible_by_K": true,
     "LeetCode_Weighted_Word_Mapping": true,
     "LeetCode_Create_Grid_With_Exactly_One_Path": true,
-    "LeetCode_Find_the_Highest_Altitude": true
+    "LeetCode_Find_the_Highest_Altitude": true,
+    "LeetCode_Minimum_XOR_Path_in_a_Grid": true
   },
   "activityHistory": {
     "2026-10-08": 1,
@@ -53,10 +54,10 @@
     "2026-10-24": 2,
     "2026-10-25": 4,
     "2026-10-26": 2,
-    "2026-10-27": 2
+    "2026-10-27": 2,
+    "2026-10-28": 1
   },
   "todayProblems": [
-    "Create Grid With Exactly One Path",
-    "Find the Highest Altitude"
+    "Minimum XOR Path in a Grid"
   ]
 }

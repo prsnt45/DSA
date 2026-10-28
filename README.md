@@ -29,3 +29,4 @@
 | 27 | [Weighted Word Mapping](./LeetCode/Easy/Weighted%20Word%20Mapping) | [LeetCode](https://leetcode.com/problems/weighted-word-mapping/) | Easy | 26 Oct 2026 | 02:49 pm |
 | 28 | [Create Grid With Exactly One Path](./LeetCode/Easy/Create%20Grid%20With%20Exactly%20One%20Path) | [LeetCode](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | 27 Oct 2026 | 10:48 pm |
 | 29 | [Find the Highest Altitude](./LeetCode/Easy/Find%20the%20Highest%20Altitude) | [LeetCode](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | 27 Oct 2026 | 10:56 pm |
+| 30 | [Minimum XOR Path in a Grid](./LeetCode/Medium/Minimum%20XOR%20Path%20in%20a%20Grid) | [LeetCode](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | Medium | 28 Oct 2026 | 10:37 pm |
