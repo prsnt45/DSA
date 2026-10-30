@@ -31,3 +31,4 @@
 | 29 | [Find the Highest Altitude](./LeetCode/Easy/Find%20the%20Highest%20Altitude) | [LeetCode](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | 27 Oct 2026 | 10:56 pm |
 | 30 | [Minimum XOR Path in a Grid](./LeetCode/Medium/Minimum%20XOR%20Path%20in%20a%20Grid) | [LeetCode](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | Medium | 28 Oct 2026 | 10:37 pm |
 | 31 | [Palindromic Path Queries in a Tree](./LeetCode/Hard/Palindromic%20Path%20Queries%20in%20a%20Tree) | [LeetCode](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | Hard | 29 Oct 2026 | 10:09 pm |
+| 32 | [Shortest Path With At Most K Consecutive Identical Characters](./LeetCode/Medium/Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters) | [LeetCode](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | 30 Oct 2026 | 11:10 pm |
